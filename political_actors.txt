@@ -1,0 +1,17 @@
+users=['@cynthiaviteri6',
+'@lassoguillermo',
+'@pesanteztwof',
+'@daloes10',
+'@IvanEspinelM',
+'@Lenin',
+'@PacoMoncayo',
+'@ZuquilandaDuque',
+'@a_alcivar','@andrespaezec','@JorgeGlas','@MauricioPozoEC','@MonseBustamant',
+'@ramiroaguilart',
+'@CristinaReyesec','@fcorderoc','@HenryKronfle','@irinacabezas','@marcelaguinaga',
+'@mmcuesta',
+'@MoisesTacle','@PaolaVintimilla','@RamiroGonzalezJ','@lcparodi', 
+'@AlbertoAcostaE','@AbAlvaroNoboa', '@jaimenebotsaadi',
+'@LourdesTiban', '@PaulCarrascoC', '@MashiRafael', '@natasha_rojas']  
+
+##Their timeline tweets were extracted the 12.dic.2016 
