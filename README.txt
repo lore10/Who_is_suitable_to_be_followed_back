@@ -29,3 +29,11 @@ List of the users and their friends who were used in our experimental framework 
 [u3, [fr1_u3, fr2_u3, fr3_u3, ... ]], ...
 ]
 
+We also provide all the necessary steps to reproduce the experiments on users' DoIP calculation 
+in the paper referenced below. For more details on how these files were generated, we refer to the following 
+scientific publication. We would highly appreciate if scientific publications of works partly based on the 
+Who_is_suitable_to_be_followed back_Datasets quote the following publication:
+
+L. Recalde, and A. Kaskina.
+Who is suitable to be followed back when you are a Twitter interested in Politics? (dg.o 2017) 
+
